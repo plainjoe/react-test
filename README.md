@@ -1,4 +1,4 @@
-# Sure Frontend Technical Challenge
+# Storyland React Technical Challenge
 Welcome! Thanks for your interest in joining the digital team at Storyland. As part of our interview process, you'll be working through a series of technical challenges outlined in this app.
 ___
 ## Goal
